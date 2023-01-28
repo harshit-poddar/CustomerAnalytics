@@ -46,7 +46,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "df_segmentation = pd.read_csv('https://raw.githubusercontent.com/UsmanNiazi/365datascience/master/21.%20Customer%20Analytics%20in%20Python/Exercise%20Files/segmentation%20data.csv', index_col = 0)"
+    "df_segmentation = pd.read_csv('segmentation data.csv', index_col = 0)"
    ]
   },
   {
